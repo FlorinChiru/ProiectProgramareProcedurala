@@ -33,4 +33,4 @@ public class Tema8 {
 	}
 
 }
-// Afijeaza ziua in functie de numarul introdus. Exemplu: 1 = Luni
+// Afiseaza ziua in functie de numarul introdus. Exemplu: 1 = Luni
